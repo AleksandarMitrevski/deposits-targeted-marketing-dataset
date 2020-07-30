@@ -1,0 +1,5 @@
+***Training results***
+TP = 2519; FP = 328; TN = 32543; FN = 1680; AUC = 0.794963169404943
+
+***Test results***
+TP = 192; FP = 94; TN = 3583; FN = 249; AUC = 0.7049049154608812
